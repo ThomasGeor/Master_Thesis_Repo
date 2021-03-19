@@ -1,5 +1,4 @@
 # Master_Thesis_Introduction
-
 The aim of this thesis project is to implement a system for monitoring a centrifugal pump, in order to detect and warn of malfunctions of the
 pump. Error detection is performed using digital signal processing, in conjunction with machine learning techniques that run on a microprocessor
 in real-time.
@@ -14,11 +13,24 @@ collecting the neural network’s training data set, as well as the experimental
 centrifugal pump was used to circulate water in a small radiator.
 
 # System_Architecture
+![Logic_Diagram](Logic_Diagram.jpg)
 
 # Hardware_Design
+![Hardware_Design.jpg](Hardware_Design.jpg)
+
+# Software Architecture
+![soft_arch.jpg](soft_arch.jpg)
+
+# Task Scheduling
+![time_analysis.jpg](time_analysis.jpg)
+
+# Neural Network architecture
+![time_analysis.jpg](time_analysis.jpg)
+
+# Neural Network tested on real data
+![NN_Test.jpg](NN_Test.jpg)
 
 # Files
-
 1) Τtime series analysis out of sensor readings and fourier transformations in python.
 2) Neaural Network model production and extraction of it's weights to be used in the MCU.
 3) Files which were used in order to flash the MCU.
