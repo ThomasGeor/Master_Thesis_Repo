@@ -13,7 +13,7 @@ collecting the neural network’s training data set, as well as the experimental
 centrifugal pump was used to circulate water in a small radiator.
 
 # System_Architecture
-![Logic_Diagram](Logic_Diagram.jpg)
+![Images/System_Arch.jpg](Images/System_Arch.jpg)
 
 # Hardware_Design
 ![Hardware_Design.jpg](Hardware_Design.jpg)
