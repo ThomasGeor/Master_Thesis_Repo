@@ -1,7 +1,7 @@
 # Introduction
 The aim of this thesis project is to implement a system for monitoring a centrifugal pump, in order to detect and warn of malfunctions of the
 pump. Error detection is performed using digital signal processing, in conjunction with machine learning techniques that run on a microprocessor
-in real-time.Digital signal processing is applied to the vibration signals received by an accelerometer with a specific sampling frequency. 
+in real-time. Digital signal processing is applied to the vibration signals received by an accelerometer with a specific sampling frequency. 
 Using proper signal processing, evaluation metrics are generated which evaluate the operation of the pump (incorrect, dangerousor, normal).
 The values of the metrics produced by the analysis of a vibration signal, define a sample. Successive samples define the data
 set used as input to an artificial neural network. This network determines the condition of the pump. Based on the output of the neural network,
