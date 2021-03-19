@@ -19,16 +19,24 @@ centrifugal pump was used to circulate water in a small radiator.
 ![Images/Hardware_Design.jpg](Images/Hardware_Design.jpg)
 
 # Software Architecture
-![Images/Software_Architecture.png](Images/Software_Architecture.jpg)
+![Images/Software_Architecture.png](Images/Software_Architecture.png)
 
 # Task Scheduling
-![time_analysis.jpg](time_analysis.jpg)
+![Images/Time_Analysis.jpg](Images/Time_Analysis.jpg)
+
+# System Readings Analysis in Normal Condition
+![Images/Norm_Cond_X.jpg](Images/Norm_Cond_X.jpg)
+![Images/Norm_Cond_Y.jpg](Images/Norm_Cond_Y.jpg)
+
+# System Readings Analysis in BAD Condition
+![Images/Bad_Cond_X.jpg](Images/Bad_Cond_X.jpg)
+![Images/Bad_Cond_Y.jpg](Images/Bad_Cond_Y.jpg)
 
 # Neural Network architecture
-![time_analysis.jpg](time_analysis.jpg)
+![Images/NN.jpg](Images/NN.jpg)
 
 # Neural Network tested on real data
-![NN_Test.jpg](NN_Test.jpg)
+![Images/NN_test.jpg](Images/NN_test.jpg)
 
 # Files
 1) Τtime series analysis out of sensor readings and fourier transformations in python.
