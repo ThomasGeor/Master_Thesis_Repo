@@ -19,7 +19,7 @@ centrifugal pump was used to circulate water in a small radiator.
 ![Images/Hardware_Design.jpg](Images/Hardware_Design.jpg)
 
 # Software Architecture
-![Images/Software_Architecture.png.jpg](Images/Software_Architecture.png.jpg)
+![Images/Software_Architecture.png](Images/Software_Architecture.jpg)
 
 # Task Scheduling
 ![time_analysis.jpg](time_analysis.jpg)
