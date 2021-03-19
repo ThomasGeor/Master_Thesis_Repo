@@ -37,8 +37,8 @@ centrifugal pump was used to circulate water in a small radiator.
 # Neural Network tested on real data
 ![Images/NN_test.jpg](Images/NN_test.jpg)
 
-# Real system presentation
-![Images/NN_test.jpg](Images/NN_test.jpg)
+# Physical system presentation
+![Images/Physical_System.jpg](Images/Physical_System.jpg)
 
 # Files
 1) Τtime series analysis out of sensor readings and fourier transformations in python.
