@@ -40,8 +40,8 @@ centrifugal pump was used to circulate water in a small radiator.
 # Physical system presentation
 ![Images/Physical_System.jpg](Images/Physical_System.jpg)
 
-# Files
-1) Τtime series analysis out of sensor readings and fourier transformations in python.
+# Code Files Included
+1) Τime series analysis out of sensor readings and fourier transformations in python.
 2) Neaural Network model production and extraction of it's weights to be used in the MCU.
-3) Files which were used in order to flash the MCU.
+3) Files which were used in order to flash the MCU in C/C++.
 
